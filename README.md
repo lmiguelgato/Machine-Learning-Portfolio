@@ -5,7 +5,7 @@ I mainly feed my portfolio by solving popular kaggle [challenges](https://www.ka
 
 In addition, I might add my solutions to Machine Learning, Deep Learning, and Data Science assignments and final projects from popular courses.
 
-I mainly use [PyTorch](https://pytorch.org/), [Keras](https://keras.io/), and [TensorFlow](https://www.tensorflow.org/) frameworks, programming in Python scripts or Jupyter notebooks. I am also familiar with MATLAB's [Deep Learning toolbox](https://www.mathworks.com/help/deeplearning) and [Statistics and Machine Learning Toolbox](https://www.mathworks.com/help/stats).
+I mainly use [PyTorch](https://pytorch.org/), [Keras](https://keras.io/), and [TensorFlow](https://www.tensorflow.org/) frameworks, as well as [scikit-learn](https://scikit-learn.org/stable/index.html), [NumPy](https://numpy.org/), and [pandas](https://pandas.pydata.org/) libraries, programming in Python scripts or Jupyter notebooks. I am also familiar with MATLAB's [Deep Learning toolbox](https://www.mathworks.com/help/deeplearning) and [Statistics and Machine Learning Toolbox](https://www.mathworks.com/help/stats).
 
 ## Current content of this repo:
 1. My [solution](https://github.com/lmiguelgato/Machine-Learning-Portfolio/tree/main/credit-card-fraud-detection) to a [Kaggle's challenge](https://www.kaggle.com/mlg-ulb/creditcardfraud): identify fraudulent credit card transactions, from a dataset containing transactions made by credit cards in September 2013 by european cardholders. The accuracy of my solution is around 98 % in a balanced dataset of unseen credit card transactions.
